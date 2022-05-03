@@ -2,7 +2,7 @@
 - 📊 I’m interested in Data Science
 - 🛤️ I love traveling and adventures
 - 🤝 I’m looking to collaborate on Data Science projects
-- 📫 Email georgemuriithi00@gmail.com
+- 📫 Email: georgemuriithi00@gmail.com
 
 <!---
 georgemuriithi/georgemuriithi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
