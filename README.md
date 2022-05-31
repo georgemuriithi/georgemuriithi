@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @georgemuriithi
-- 📊 I’m interested in Data Science
+- 📊 I’m interested in Data Science, Web and Mobile Development
 - 🛤️ I love traveling and adventures
 - 🤝 I’m looking to collaborate on Data Science projects
 - 📫 Email: georgemuriithi00@gmail.com
